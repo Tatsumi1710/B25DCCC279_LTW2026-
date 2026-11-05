@@ -206,3 +206,9 @@ body {
   border-color: dashed #cbd5e1;
   cursor: default;
 }
+
+.helpers {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 14px;
+}
